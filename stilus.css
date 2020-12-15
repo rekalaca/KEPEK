@@ -1,0 +1,10 @@
+img{
+    width: 100%;
+}
+.sorban{
+    width: 32%;
+    float: right;
+    padding: 5px;
+    border-radius: 50%;
+
+}
